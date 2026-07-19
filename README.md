@@ -1,2 +1,1 @@
-# music-player
-A professional music player app
+after making this game I understand canvas tag of H.T.M.L . and in J.S I understand about physics , and maths . when I am making this website many time I stuck but I not lost hope and when I completed my project I am learn many things
